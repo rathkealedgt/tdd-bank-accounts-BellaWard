@@ -1,0 +1,10 @@
+C:\Users\64274\Documents\GitHub\tdd-bank-accounts-BellaWard\BankAccounts\bin\Debug\BankAccounts.exe.config
+C:\Users\64274\Documents\GitHub\tdd-bank-accounts-BellaWard\BankAccounts\bin\Debug\BankAccounts.exe
+C:\Users\64274\Documents\GitHub\tdd-bank-accounts-BellaWard\BankAccounts\bin\Debug\BankAccounts.pdb
+C:\Users\64274\Documents\GitHub\tdd-bank-accounts-BellaWard\BankAccounts\bin\Debug\BankAccounts.xml
+C:\Users\64274\Documents\GitHub\tdd-bank-accounts-BellaWard\BankAccounts\obj\Debug\BankAccounts.vbprojAssemblyReference.cache
+C:\Users\64274\Documents\GitHub\tdd-bank-accounts-BellaWard\BankAccounts\obj\Debug\BankAccounts.Resources.resources
+C:\Users\64274\Documents\GitHub\tdd-bank-accounts-BellaWard\BankAccounts\obj\Debug\BankAccounts.vbproj.GenerateResource.cache
+C:\Users\64274\Documents\GitHub\tdd-bank-accounts-BellaWard\BankAccounts\obj\Debug\BankAccounts.exe
+C:\Users\64274\Documents\GitHub\tdd-bank-accounts-BellaWard\BankAccounts\obj\Debug\BankAccounts.xml
+C:\Users\64274\Documents\GitHub\tdd-bank-accounts-BellaWard\BankAccounts\obj\Debug\BankAccounts.pdb
